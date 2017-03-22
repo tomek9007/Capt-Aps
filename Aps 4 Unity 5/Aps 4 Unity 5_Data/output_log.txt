@@ -1,0 +1,194 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683d)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.315 seconds
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tomek\Documents\repos\Unity\Aps 4 Unity 5\Aps 4 Unity 5_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 3200x1084 at 0,-60
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.733877 ms
+Level load requested for: McDonald
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.778945 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.267933 ms (FindLiveObjects: 0.016397 ms CreateObjectMapping: 0.021038 ms MarkObjects: 0.224309 ms  DeleteObjects: 0.005569 ms)
+
+Level load requested for: Dwor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497192 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.205126 ms (FindLiveObjects: 0.016088 ms CreateObjectMapping: 0.017635 ms MarkObjects: 0.168309 ms  DeleteObjects: 0.002165 ms)
+
+Level load requested for: ZjedzGlupka
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312176 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.187800 ms (FindLiveObjects: 0.016707 ms CreateObjectMapping: 0.017635 ms MarkObjects: 0.150673 ms  DeleteObjects: 0.002165 ms)
+
+Level load requested for: Napiecie
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323933 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.185944 ms (FindLiveObjects: 0.014232 ms CreateObjectMapping: 0.017325 ms MarkObjects: 0.151601 ms  DeleteObjects: 0.002165 ms)
+
+Level load requested for: Srodek
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.294231 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.259889 ms (FindLiveObjects: 0.015778 ms CreateObjectMapping: 0.017944 ms MarkObjects: 0.220286 ms  DeleteObjects: 0.004640 ms)
+
+Level load requested for: Parter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422938 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.207911 ms (FindLiveObjects: 0.014850 ms CreateObjectMapping: 0.008044 ms MarkObjects: 0.181612 ms  DeleteObjects: 0.003093 ms)
+
+Level load requested for: Srodek
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.274430 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.270717 ms (FindLiveObjects: 0.017944 ms CreateObjectMapping: 0.017944 ms MarkObjects: 0.228949 ms  DeleteObjects: 0.005259 ms)
+
+Level load requested for: Gora
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357656 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.192132 ms (FindLiveObjects: 0.015469 ms CreateObjectMapping: 0.017325 ms MarkObjects: 0.155933 ms  DeleteObjects: 0.002475 ms)
+
+Level load requested for: Bontinka2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342496 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.190275 ms (FindLiveObjects: 0.016397 ms CreateObjectMapping: 0.017635 ms MarkObjects: 0.153148 ms  DeleteObjects: 0.002475 ms)
+
+Level load requested for: Farba
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378076 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.205126 ms (FindLiveObjects: 0.018872 ms CreateObjectMapping: 0.015778 ms MarkObjects: 0.166143 ms  DeleteObjects: 0.003403 ms)
+
+Level load requested for: Karma
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.338783 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.161502 ms (FindLiveObjects: 0.014232 ms CreateObjectMapping: 0.008662 ms MarkObjects: 0.135204 ms  DeleteObjects: 0.002475 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353944 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.197082 ms (FindLiveObjects: 0.014541 ms CreateObjectMapping: 0.008662 ms MarkObjects: 0.169546 ms  DeleteObjects: 0.003712 ms)
+
+Level quit requested for: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c50 -> priority: 1 
