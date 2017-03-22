@@ -1,2 +1,2 @@
 # Capt-Aps
-build. Gra z kotem Marysi na unity
+Gra z kotem Marysi na unity
